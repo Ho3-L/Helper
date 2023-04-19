@@ -1,6 +1,6 @@
 {
-	"name": "VAN (Movement) CN-ip",
+	"name": "VAN (Movement) Git-Hub",
 	"description": "integrate BY VAN ",
   	"update_timestamp": 1659948270,
-	"url_format": "https://www.gitlink.org.cn/api/koken/helper/raw?filepath=van_movement/%map%.json"
+	"url_format": "https://raw.githubusercontent.com/Ho3-L/Helper/main/van_movement/%map%.json"
 }

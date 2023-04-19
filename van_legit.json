@@ -2,6 +2,6 @@
 	"name": "VAN (Legit) CN-ip",
 	"description": "VAN Helper ALL",
 	"update_timestamp": 1674072490,
-     "url_format": "https://code.gitlink.org.cn/api/v1/repos/koken/helper/raw/van_legit%2F%map%.json?ref=master&access_token=4792053b651675e5cd8daa18ae8b93594fbac332"   
-	//"url_format": "https://www.gitlink.org.cn/api/koken/helper/raw?filepath=van_legit/%map%.json"   
+     "url_format": "https://raw.githubusercontent.com/Ho3-L/Helper/main/van_legit/%map%.json"   
+
 }
